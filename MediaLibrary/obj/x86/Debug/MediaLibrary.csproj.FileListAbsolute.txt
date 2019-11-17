@@ -1,0 +1,11 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\obj\x86\Debug\MediaLibrary.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\obj\x86\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\bin\Debug\NLog.xml
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\obj\x86\Debug\MediaLibrary.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\obj\x86\Debug\MediaLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-2f5e8d7c0b1ce1c483bfd648e3da400d6e1ffe8c\NETDBProgramming\MediaLibrary\obj\x86\Debug\MediaLibrary.pdb
