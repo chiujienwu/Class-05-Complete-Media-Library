@@ -1,0 +1,9 @@
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\NLog.dll
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\NLog.xml
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\x86\Debug\MediaLibrary.csprojAssemblyReference.cache
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\x86\Debug\MediaLibrary.csproj.CopyComplete
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\x86\Debug\MediaLibrary.exe
+C:\Users\JerryChiu\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\x86\Debug\MediaLibrary.pdb
